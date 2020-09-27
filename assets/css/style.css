@@ -19,40 +19,44 @@ p {
 }
 
 /* HEADER */
-.header {
+header {
     padding: 20px;
     background-color: #2a607c;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header ul.navigation {
+nav {
+    display: inline-block;
     float: right;
+}
+
+nav ul {
     font-size: 20px;
     margin-right: 20px;
     padding-top: 15px;
 }
 
-.header ul.navigation li {
+nav ul li {
     display: inline-block;
     list-style-type: none;
     margin-left: 25px;
 }
 
-.header ul.navigation li a {
+nav ul li a {
     color: #FFF;
     text-decoration: none;
 }
 
-.header ul.navigation li a:hover {
+nav ul li a:hover {
     color: #d9dcd6;
     text-decoration: underline;
 }
