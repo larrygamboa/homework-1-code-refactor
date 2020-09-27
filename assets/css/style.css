@@ -126,22 +126,23 @@ nav ul li a:hover {
 
 .benefits ul li.sidebar-content-block img {
     display: block;
+    /* filter: invert(1); */
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* FOOTER */
-.footer {
+footer {
     clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 30px;
     text-align: center;
 }
 
-.footer h2, .footer p {
+footer h2, footer p {
     color: #333;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
-    margin-bottom: 5px;
 }
