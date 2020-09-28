@@ -1,8 +1,9 @@
 # homework-1-code-refactor
 homework 1 code refactor
 
-Preview link: https://larrygamboa.github.io/homework-1-code-refactor/
-Screenshot link:
+**Preview link**: https://larrygamboa.github.io/homework-1-code-refactor/
+
+**Screenshot link**: https://github.com/larrygamboa/homework-1-code-refactor/blob/master/horiseon-screenshot.png
 
 
 ## Your Task
