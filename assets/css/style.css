@@ -24,14 +24,19 @@ header {
     background-color: #2a607c;
 }
 
-header h1 {
+header h1.title {
     display: inline-block;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1.title .seo {
     color: #d9dcd6;
+}
+
+header h1.title a {
+    color: #FFF;
+    text-decoration: none;
 }
 
 nav {
