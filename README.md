@@ -3,6 +3,8 @@ homework 1 code refactor
 
 **Preview link**: https://larrygamboa.github.io/homework-1-code-refactor/
 
+**GitHub repository**: https://github.com/larrygamboa/homework-1-code-refactor
+
 **Screenshot link**: https://github.com/larrygamboa/homework-1-code-refactor/blob/master/horiseon-screenshot.png
 
 
