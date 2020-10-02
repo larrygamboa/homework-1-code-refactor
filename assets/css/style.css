@@ -78,24 +78,24 @@ nav ul li a:hover {
 }
 
 /* MAIN CONTENT STYLES */
-.content {
+main.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section.content-block  {
+main.content section.content-block  {
     background-color: #0072bb;
     height: 300px;
     margin-bottom: 20px;
     padding: 50px;
 }
 
-.content section.content-block img {
+main.content section.content-block img {
     max-height: 200px;
 }
 
-.content section.content-block h2 {
+main.content section.content-block h2 {
     font-size: 36px;
     margin-bottom: 20px;
 }
